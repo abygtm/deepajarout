@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-
-**deepajarout/deepajarout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I am Deepa Jarout. I like problem solving, traveling, photography, dancing, video games, conversations. I like to explore new places with different traditions and cultures.
+**Full Stack Developer (Node.js | ExpressJS | JavaScript | MongoDB | AngularJS|AWS)** is a ✨ _special_ ✨ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Github
 
